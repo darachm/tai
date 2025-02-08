@@ -84,7 +84,7 @@ a happy spot.
 So if you've got room in your heart and home for this lovely 8.5 year-old cat,
 preferrably with a warm spot in the sunlight, 
 please email me to set up a visit.
-
+" usual.flag9239 " at that " fastmail.com " email.
 
 <style>
 body {
